@@ -1,0 +1,11 @@
+.bidder__button{
+    margin: 15px;
+    font-size: 19px;
+    padding: 10px;
+    background-color: rgb(245, 190, 124);
+    border-radius: 20px;
+    font-weight: 600;
+    color: white;
+    border: none;
+    box-shadow: 5px 5px 5px 5px grey;
+}

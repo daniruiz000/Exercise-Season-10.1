@@ -1,0 +1,45 @@
+.account{
+    margin: 50px auto;
+    padding: 50px;
+    border-radius: 20px;
+    background-color: burlywood;
+    width: 600px;
+}
+
+.account__container-info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.account__info{
+    margin: 20px;
+    font-size: 20px;
+    padding: 20px;
+    background-color: rgb(252, 238, 221);
+    border-radius: 20px;
+    border: none;
+    box-shadow: 5px 5px 5px 5px grey;
+}
+
+.account__container-button{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.account__button{
+    margin: 15px;
+    font-size: 19px;
+    padding: 10px;
+    background-color: rgb(245, 190, 124);
+    border-radius: 20px;
+    font-weight: 600;
+    color: white;
+    border: none;
+    box-shadow: 5px 5px 5px 5px grey;
+}
